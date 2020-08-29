@@ -3654,7 +3654,7 @@ input, select, textarea {
 
 	#stationsvisited>div {
 	  background-color: #ED1C24;
-	  width: 19%;
+	  width: 25%;
 	  /* Adjust with JavaScript */
 	  height: 20px;
 	  border-radius: 10px;
@@ -3669,7 +3669,7 @@ input, select, textarea {
 
 #tocused>div {
 	background-color: #ED1C24;
-	width: 7%;
+	width: 20%;
 	/* Adjust with JavaScript */
 	height: 20px;
 	border-radius: 10px;
